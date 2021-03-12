@@ -28,6 +28,11 @@ body {
   font-size: 16px;
 }
 
+.link{
+  color: #577bc2;
+  text-decoration: none;
+}
+
 .resume {
   width: 800px;
   height: auto;
@@ -111,14 +116,6 @@ border-bottom: 2px solid #008080;
 
 .resume .resume_left ul li .data{
   color: #008080;
-}
-
-.resume .resume_left ul li .data a:visited{
-  color: #577bc2;
-}
-
-.resume .resume_left ul li .data a:link{
-  text-decoration: none;
 }
 
 .resume .resume_left .resume_skills ul li {
